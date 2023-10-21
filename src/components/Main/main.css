@@ -1,0 +1,15 @@
+.main {
+    margin: 100px 800px 0 100px;
+}
+
+.main h1 {
+    font-size: 80px;
+}
+
+.main .button {
+    padding: 15px 50px;
+    background-color: rgb(230, 219, 64);
+    border: none;
+    cursor: pointer;
+    margin-right: 16px;
+}
