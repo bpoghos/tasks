@@ -1,9 +1,14 @@
 .main {
-    margin: 100px 800px 0 100px;
+    margin: 0 200px 0 150px;
 }
 
 .main h1 {
     font-size: 80px;
+}
+
+.main-box {
+    display: flex;
+    justify-content: space-between;
 }
 
 .main .button {
@@ -12,4 +17,11 @@
     border: none;
     cursor: pointer;
     margin-right: 16px;
+}
+
+.image {
+    margin: 80px 150px 0 0;
+    width: 1000px;
+    height: 600px;
+    background-color: #fff;
 }
