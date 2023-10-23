@@ -15,7 +15,7 @@ export default function Main() {
                     <button className='button button2'>Download App</button>
                 </div>
             </div>
-            <div className='image'>
+            <div className='main-image'>
 
             </div>
         </div>
